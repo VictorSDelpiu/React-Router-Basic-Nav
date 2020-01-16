@@ -5,7 +5,7 @@ const Navigation = () => {
   return (
     <div>
       <div className="App">
-        <h1>React Router Mini</h1>
+        <h1>React Router</h1>
         <div>
           <Link to="/">Home</Link>
         </div>
